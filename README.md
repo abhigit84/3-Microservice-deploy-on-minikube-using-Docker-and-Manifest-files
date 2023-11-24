@@ -157,7 +157,7 @@ To see in browser the microservice shopfront application:
 
 kubectl port-forward --address 0.0.0.0 svc/shopfront 8080:8010
 
-http://54.183.85.189:singam did not give
+http://54.183.85.189:
 
 
 Note:in 1 yaml file only both kinds deployment and service written here.so 1 yaml file for each microservice residning in kubernetes folder
